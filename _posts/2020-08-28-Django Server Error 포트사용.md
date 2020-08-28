@@ -1,5 +1,5 @@
 ---
-title: "Git 버전관리 기본개념 이해하기"
+title: "Django Server Error 포트사용"
 categories:
   - Django
   - 웹개발
