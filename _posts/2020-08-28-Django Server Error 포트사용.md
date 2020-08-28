@@ -18,7 +18,7 @@ toc_sticky: True
 
 ## 포트관련 오류
   - Django 서버 재실행 시 발생될 수 있는 오류
-   * Error: That port is already in use
+   * Error: That port is already in use  
 
- ### 해결책 : sudo lsof -tf -i tcp:8000 | xargs kill -9   
+### 해결책 : sudo lsof -tf -i tcp:8000 | xargs kill -9   
    
