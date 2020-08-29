@@ -15,8 +15,12 @@ toc_sticky: True
 
 ## get_or_create 의미
   - get_or_create는 구하고자 하는 객체가 이미 존재하는 지에 대한 정보를 얻는데 유용하다(객체 조회)
+
+**get_of_create:**  
   1) 구하고자 하는 객체가 존재할 경우 객체를 얻고(get)
   2) 객체가 존재하지 않을 경우 생성을 한다(create)
+{: .notice--info}
+
 
 ## get_or_create 사용예제 
 ~~~
